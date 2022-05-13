@@ -1,4 +1,4 @@
-TinDog Starting Files
+Project based HTML, CSS and Bootstrap.
 
-<h2>here is the link to the website:</h2>
+<h2>TinDog:</h2>
 <link href="https://roiyehezkel.github.io/TinDog/">https://roiyehezkel.github.io/TinDog/</a>
