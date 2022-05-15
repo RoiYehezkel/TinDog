@@ -139,9 +139,6 @@ p{
     height: 100%;
 }
 
-.btn-price{
-    margin-top: 0%;
-}
 
 @media (max-width: 1028px){
     #title{
